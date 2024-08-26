@@ -1,5 +1,5 @@
 # Portfolio Website
-This is the second project I completed. This is built with c++ and runs in the command line.
+This is the second project I completed. This is built with C++ and runs in the command line.
 
 ## Live Demo
 Download both the .cpp and .hpp file, compile, and then run the executable.
